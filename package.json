@@ -1,0 +1,13 @@
+{
+  "name": "colloqui-facili",
+  "version": "1.4.1",
+  "private": true,
+  "description": "Colloqui settimanali e link alle prenotazioni su ClasseViva",
+  "author": "Leo971",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "build": "node build.cjs",
+    "verify": "node verify.cjs",
+    "test": "node --test test-creation.cjs test-bookings.cjs"
+  }
+}

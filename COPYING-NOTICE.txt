@@ -1,0 +1,10 @@
+Copyright (C) 2026 Leo971
+SPDX-License-Identifier: GPL-3.0-or-later
+
+Colloqui Facili is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See LICENSE.txt for the complete terms.
+
+All JavaScript, HTML and CSS files are readable source, without minification or compilation. The editable source of the PNG icons is icons/source.svg. These source files are included in the extension ZIP. To modify the extension, edit these files directly, increase manifest.json version, retain the notices and record your changes and their date, then package the directory with manifest.json at the root.
+
+The GNU license text itself is Copyright (C) 2007 Free Software Foundation, Inc. and is reproduced verbatim.

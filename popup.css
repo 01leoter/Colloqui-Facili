@@ -1,0 +1,4 @@
+/* Copyright (C) 2026 Leo971
+SPDX-License-Identifier: GPL-3.0-or-later
+See LICENSE.txt. */
+:root{color-scheme:light}*{box-sizing:border-box}body{width:390px;margin:0;padding:22px;font:14px/1.55 system-ui,sans-serif;background:#f8fbfa;color:#193e3a}header{display:flex;gap:12px;align-items:center}header>div{flex:1}a.help{padding:7px 10px;background:#e4f0eb;border-radius:8px;text-decoration:none;font-weight:650}h1{font-size:22px;margin:0;line-height:1.2}small,.small{font-size:12px;color:#526b66}p{margin:16px 0}button{font:600 14px system-ui;width:100%;padding:13px;border:0;border-radius:9px;background:#12655d;color:white;cursor:pointer}button:disabled{opacity:.5}a{color:#12655d}a.link{display:block;font-weight:650}#status{font-size:13px}#status:empty{display:none}footer{border-top:1px solid #d8e5e0;padding-top:12px;display:flex;flex-direction:column;gap:6px;font-size:12px}
